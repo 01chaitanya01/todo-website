@@ -1,0 +1,49 @@
+.todo-item-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.check-btn {
+  /* width: 15px; */
+  /* height: 15px; */
+  /* border: 3px solid #212529; */
+  /* border-radius: 4px; */
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.task-text {
+  flex: 2;
+  display: flex;
+  align-items: center;
+  font-size: 1.1rem;
+  cursor: pointer;
+  word-break: break-all;
+}
+
+.complete-text {
+  opacity: 0.5;
+}
+
+.remove-btn {
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: color 0.2s;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.remove-btn:hover {
+  color: #d90429;
+}
+
+.task-date {
+  display: flex;
+  align-items: center;
+}
