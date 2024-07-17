@@ -39,7 +39,7 @@ A simple Todo application built with React, allowing users to add, view, and man
         ├── mainpage.css
         ├── todoitem.css
         └── todolist.css
-
+```
 ## Prerequisites
 
 Ensure you have the following installed on your development machine:
@@ -111,10 +111,3 @@ Builds the app for production to the `build` folder. It correctly bundles React 
   - `components/`: Contains the React components used in the application.
   - `context/`: Contains the context file for managing state.
   - `styles/`: Contains the CSS files for styling the components.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
-This version provides clear and professional instructions for setting up and running your Todo App project.
