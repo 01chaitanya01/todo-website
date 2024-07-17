@@ -1,11 +1,10 @@
-```markdown
 # Todo App
 
-This is a simple Todo application built with React. It allows users to add, view, and manage their tasks.
+A simple Todo application built with React, allowing users to add, view, and manage their tasks.
 
 ## Project Structure
 
-```
+```plaintext
 .
 ├── package.json
 ├── package-lock.json
@@ -41,12 +40,9 @@ This is a simple Todo application built with React. It allows users to add, view
         ├── todoitem.css
         └── todolist.css
 
-5 directories, 28 files
-```
-
 ## Prerequisites
 
-Make sure you have the following installed on your development machine:
+Ensure you have the following installed on your development machine:
 
 - [Node.js](https://nodejs.org/en/download/) (version 12 or higher)
 - [npm](https://www.npmjs.com/get-npm) (comes with Node.js) or [yarn](https://classic.yarnpkg.com/en/docs/install/) (optional)
@@ -98,8 +94,7 @@ In the project directory, you can run:
 
 ### `npm start` or `yarn start`
 
-Runs the app in development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm test` or `yarn test`
 
@@ -122,4 +117,4 @@ Builds the app for production to the `build` folder. It correctly bundles React 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
 
-Save this content in your `README.md` file. This should provide clear instructions on how to set up and run your Todo application.
+This version provides clear and professional instructions for setting up and running your Todo App project.
